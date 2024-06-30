@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chitransh1234
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning Data Structures and Algorithms.
+- 🌱 I'm currently buliding Projects .
   
 
 
